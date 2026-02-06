@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">Lab2Mobile</string>
+    <string name="app_name" translatable="false">Lab2Mobile</string>
+    <string name="buttonPrev">Previous</string>
+    <string name="buttonNext">Next</string>
+    <string name="prev_button_desc">Show previous artwork</string>
+    <string name="next_button_desc">Show next artwork</string>
+
+    <!-- Картина 1 -->
+    <string name="pic1Name">The Conjurer</string>
+    <string name="pic1_2Author">Hieronymus Bosch</string>
+    <string name="pic1Date">1475 — 1502 years</string>
+
+    <!-- Картина 2 -->
+    <string name="pic2Name">Cutting the Stone</string>
+    <string name="pic2Date">1475 — 1520 years</string>
+
+    <!-- Картина 3 -->
+    <string name="pic3Name">Netherlandish Proverbs</string>
+    <string name="pic3_4Author">Pieter Bruegel the Elder</string>
+    <string name="pic3Date">1559 year</string>
+
+    <!-- Картина 4 -->
+    <string name="pic4Name">The Triumph of Death</string>
+    <string name="pic4Date">1562 year</string>
+
+    <!-- Картина 5 -->
+    <string name="pic5Name">The Librarian</string>
+    <string name="pic5_6_7Author">Giuseppe Arcimboldo</string>
+    <string name="pic5Date">1562 year</string>
+
+    <!-- Картина 6 -->
+    <string name="pic6Name">Winter</string>
+    <string name="pic6Date">1573 year</string>
+
+    <!-- Картина 7 -->
+    <string name="pic7Name">Summer</string>
+    <string name="pic7Date">1573 year</string>
+
+    <!-- Картина 8 -->
+    <string name="pic8Name">The Battle of Alexander at Issus</string>
+    <string name="pic8Author">Albrecht Altdorfer</string>
+    <string name="pic8Date">1528 — 1529 years</string>
 </resources>

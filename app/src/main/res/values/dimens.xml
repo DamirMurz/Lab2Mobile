@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "L_margin">80dp</dimen>
+    <dimen name = "xM_margin">40dp</dimen>
+    <dimen name = "M_margin">20dp</dimen>
+    <dimen name = "S_margin">10dp</dimen>
+    <dimen name = "picWidth">350dp</dimen>
+    <dimen name = "picLength">500dp</dimen>
+    <dimen name = "buttonWidth">140dp</dimen>
+
+    <dimen name = "fontName">30sp</dimen>
+    <dimen name = "fontAuthor">20sp</dimen>
+    <dimen name = "fontDate">15sp</dimen>
+</resources>

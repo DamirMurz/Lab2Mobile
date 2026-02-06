@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buttonPrev">Предидущий</string>
+    <string name="buttonNext">Следующий</string>
+    <string name="prev_button_desc">Показать предыдущую картину</string>
+    <string name="next_button_desc">Показать следующую картину</string>
+
+    <!-- Картина 1 -->
+    <string name="pic1Name">Фокусник</string>
+    <string name="pic1_2Author">Иероним Босх</string>
+    <string name="pic1Date">1475 — 1502 года</string>
+
+    <!-- Картина 2 -->
+    <string name="pic2Name">Извлечение камня глупости</string>
+    <string name="pic2Date">1475 — 1520 года</string>
+
+    <!-- Картина 3 -->
+    <string name="pic3Name">Нидерландские пословицы</string>
+    <string name="pic3_4Author">Питер Брейгель Старший</string>
+    <string name="pic3Date">1559 год</string>
+
+    <!-- Картина 4 -->
+    <string name="pic4Name">Триумф смерти</string>
+    <string name="pic4Date">1562 год</string>
+
+    <!-- Картина 5 -->
+    <string name="pic5Name">Библиотекарь</string>
+    <string name="pic5_6_7Author">Джузеппе Арчимбольдо</string>
+    <string name="pic5Date">1562 год</string>
+
+    <!-- Картина 6 -->
+    <string name="pic6Name">Зима</string>
+    <string name="pic6Date">1573 год</string>
+
+    <!-- Картина 7 -->
+    <string name="pic7Name">Лето</string>
+    <string name="pic7Date">1573 год</string>
+
+    <!-- Картина 8 -->
+    <string name="pic8Name">Битва Александра при Иссе</string>
+    <string name="pic8Author">Альбрехт Альтдорфер</string>
+    <string name="pic8Date">1528 — 1529 года</string>
+</resources>
